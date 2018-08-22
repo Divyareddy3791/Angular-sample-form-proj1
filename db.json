@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Jennifer Pinsker",
+      "idnumber": "0012263890084",
+      "gender": "F",
+      "contactdetails": {
+        "number": "9543396484",
+        "email": "jennifer.pinsker@gmail.com"
+      },
+      "addressdetails": {
+        "number": "15",
+        "street": "Juniper Street",
+        "suburb": "Waldenstate",
+        "postalcode": 1234
+      }
+    },
+    {
+      "id": 2,
+      "user": "Jennifer",
+      "idnumber": "0012263890084",
+      "gender": "F",
+      "contactdetails": {
+        "number": "12334556",
+        "email": "jennifer.pinsker@gmail.com"
+      },
+      "addressdetails": {
+        "number": "15",
+        "street": "Juniper Street",
+        "suburb": "Waldenstate",
+        "postalcode": 1234
+      }
+    },
+    {
+      "id": 3,
+      "user": "Pinsker",
+      "idnumber": "0012263890082",
+      "gender": "F",
+      "contactdetails": {
+        "number": "7275849503",
+        "email": "jennifer.pinsker@gmail.com"
+      },
+      "addressdetails": {
+        "number": "15",
+        "street": "Juniper Street",
+        "suburb": "Waldenstate",
+        "postalcode": 1234
+      }
+    },
+    {
+      "id": 4,
+      "user": "Johanna",
+      "idnumber": "0012263896084",
+      "gender": "F",
+      "contactdetails": {
+        "number": "7275849503",
+        "email": "jennifer.pinsker@gmail.com"
+      },
+      "addressdetails": {
+        "number": "153",
+        "street": "Juniper Street",
+        "suburb": "Waldenstate",
+        "postalcode": 1234
+      }
+    },
+    {
+      "id": 5,
+      "user": "louis",
+      "idnumber": "0012263897084",
+      "gender": "F",
+      "contactdetails": {
+        "number": "9548795",
+        "email": "jennifer.pinsker@gmail.com"
+      },
+      "addressdetails": {
+        "number": "15",
+        "street": "Juniper Street",
+        "suburb": "Waldenstate",
+        "postalcode": 1234
+      }
+    },
+    {
+      "id": 6,
+      "user": "alisa",
+      "idnumber": "0012263891084",
+      "gender": "F",
+      "contactdetails": {
+        "number": "7275849503",
+        "email": "jennifer.pinsker@gmail.com"
+      },
+      "addressdetails": {
+        "number": "15",
+        "street": "Juniper Street",
+        "suburb": "Waldenstate",
+        "postalcode": 1234
+      }
+    },
+    {
+      "id": 7,
+      "user": "ethan",
+      "idnumber": "001263890084",
+      "gender": "F",
+      "contactdetails": {
+        "number": "7275849503",
+        "email": "jennifer.pinsker@gmail.com"
+      },
+      "addressdetails": {
+        "number": "15",
+        "street": "Juniper Street",
+        "suburb": "Waldenstate",
+        "postalcode": 1234
+      }
+    },
+    {
+      "id": 8,
+      "user": "Bob Robson",
+      "idnumber": "8001238906085",
+      "gender": "M",
+      "contactdetails": {
+        "number": "0127789654",
+        "email": "brobson@junkmail.co.za"
+      },
+      "addressdetails": {
+        "number": "2C",
+        "street": "Pinket Estate, Jackson Drive",
+        "suburb": "Mollywood",
+        "postalcode": 7569
+      }
+    }
+  ]
+}
